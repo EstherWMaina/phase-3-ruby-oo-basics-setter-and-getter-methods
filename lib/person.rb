@@ -24,5 +24,5 @@ end
 beyonce = Person.new
 beyonce.name=("beyonce")
 
-Singer = job.new
+Singer = Person.new
 Singer.job=("Singer")
